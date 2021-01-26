@@ -2,3 +2,7 @@
 DoneWithIt/.expo/settings.json
 DoneWithIt/node_modules
 .DS_Store
+DoneWithIt/expo
+DoneWithIt/.expo-shared
+DoneWithIt/.vscode
+
